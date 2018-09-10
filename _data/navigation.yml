@@ -1,0 +1,9 @@
+items:
+  - title: painting
+    url: /
+  - title: drawing
+    url: /drawings
+  - title: text
+    url: /texts
+  - title: cv
+    url: /cv

@@ -1,0 +1,8 @@
+title: Juna Yang
+description: ~
+permalink: none
+remote_theme: jekyll-theme-lightning/lightning
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-remote-theme
