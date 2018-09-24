@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Juna Yang
+title: CV
 permalink: /cv
 navItemTitle: cv
 ---
